@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/Week9Lists/Week9Lists/bin/Debug/net7.0/Week9Lists
+/Users/laurpress/Projects/Week9Lists/Week9Lists/bin/Debug/net7.0/Week9Lists.deps.json
+/Users/laurpress/Projects/Week9Lists/Week9Lists/bin/Debug/net7.0/Week9Lists.runtimeconfig.json
+/Users/laurpress/Projects/Week9Lists/Week9Lists/bin/Debug/net7.0/Week9Lists.dll
+/Users/laurpress/Projects/Week9Lists/Week9Lists/bin/Debug/net7.0/Week9Lists.pdb
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/Week9Lists.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/Week9Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/Week9Lists.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/Week9Lists.AssemblyInfo.cs
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/Week9Lists.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/Week9Lists.dll
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/refint/Week9Lists.dll
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/Week9Lists.pdb
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/Week9Lists.genruntimeconfig.cache
+/Users/laurpress/Projects/Week9Lists/Week9Lists/obj/Debug/net7.0/ref/Week9Lists.dll
